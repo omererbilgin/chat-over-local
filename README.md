@@ -2,11 +2,15 @@
 
 install packages: 
 
+--------------------
+
 apache2 
 
 (or nginx but I wouldn't prefer it if you're using your local computer) 
 
 php
+
+--------------------
 
 move index.php into webroot folder (default): /var/www/html
 $ `mv index.php /var/www/html`
